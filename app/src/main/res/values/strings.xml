@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PDM02</string>
+    <string name="botonLog">Logueate</string>
+    <string name="usuario">Usuario</string>
+    <string name="password">password</string>
+    <string name="Tusuario">Usuario:</string>
+    <string name="contraseña">Contraseña:</string>
+    <string name="button1">Facer pedido</string>
+    <string name="button2">Ver pedidos en trámite</string>
+    <string name="button3">Ver compras realizadas</string>
+    <string name="button4">Saír</string>
+    <string name="dirección">Dirección:</string>
+    <string name="cp">Codigo postal:</string>
+    <string name="ciudad">Ciudad:</string>
+    <string name="enviar">Enviar!</string>
+    <string name="error">Error logueandose!</string>
+    <string name="errorCampos">Error, rellena todos los campos!</string>
+    <string name="Pedir">Pedir</string>
+</resources>
