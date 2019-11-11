@@ -17,10 +17,8 @@
         android:entries="@array/Categoria"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.456"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.0" />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <Spinner
         android:id="@+id/spinner2"
@@ -29,7 +27,7 @@
         android:layout_marginStart="55dp"
         android:layout_marginTop="205dp"
         android:layout_marginEnd="56dp"
-        android:layout_marginBottom="477dp"
+        android:layout_marginBottom="476dp"
         android:entries="@array/Producto1"
         android:visibility="visible"
         app:layout_constraintBottom_toBottomOf="parent"
